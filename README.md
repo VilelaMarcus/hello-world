@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+The Hello World project is a time-honored tradition in computer programming. 
+It is a simple exercise that gets you started when learning something new.
+
+
+In this Hello-Word we learned how to use Pull requests.
